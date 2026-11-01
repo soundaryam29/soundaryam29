@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Soundarya! 👋
 
-<!--
-**soundaryam29/soundaryam29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science (AI&DS) Student
 
-Here are some ideas to get you started:
+💻 Aspiring AI & Generative AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology, programming and building
+real-world applications.
+
+## 🌱 Currently Learning
+- Python
+- Java
+- Data Structures and Algorithms
+- Generative AI
+- Git and GitHub
+
+## 🎯 My Goals
+- Build real-world projects
+- Improve my problem-solving skills
+- Explore Artificial Intelligence
+- Become a skilled software developer
+
+## 🛠️ Technologies
+- Python
+- Java
+- GitHub
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/soundarya-m-3a88b9379?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+---
+⭐ Thanks for visiting my profile!
